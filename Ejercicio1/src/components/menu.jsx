@@ -6,8 +6,7 @@ import Number from "./inputnumber";
 const Categorias= [
     {
         nombre: "Manzana",
-        Precio:"0.50",
-        
+        Precio:"0.50",        
     },
     {
         nombre: "Banana",
